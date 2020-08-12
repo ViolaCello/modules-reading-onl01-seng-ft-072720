@@ -12,6 +12,6 @@ class Dancer
   end
   
   
-  puts self.metadata 
+  
   
 end
