@@ -11,6 +11,6 @@ class Dancer
     @name = name
   end
   
-  
+  puts Kid.metadata 
   
 end
